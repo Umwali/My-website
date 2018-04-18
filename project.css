@@ -1,0 +1,11 @@
+.nuko{
+    background: url(../image/yvonne.jpg);
+}
+aside{
+    background-color: black;
+    color: white;
+    height: 500px;
+}
+nav ul{ 
+display: inline;
+}

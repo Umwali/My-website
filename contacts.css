@@ -1,0 +1,19 @@
+ul li{
+    display: inline;
+}
+.smart{
+    background-color: darkcyan;
+}
+.wrap{
+    background: cadetblue;
+}
+.smart{
+    background: black;
+    color: white;
+}
+ul li{
+    display: inline;
+}
+.smart a{
+    color: orange
+}

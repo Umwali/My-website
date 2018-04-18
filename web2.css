@@ -1,0 +1,12 @@
+aside{
+    background-color: black;
+    color: white;
+    height: 500px;
+}
+nav li{
+    background-color: red;
+}
+.nuko{
+    width:40px;
+    height:40px;
+}

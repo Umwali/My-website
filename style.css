@@ -1,0 +1,21 @@
+.wrap{
+    background-color: red;
+}
+nav li{display: inline; margin-left: 0px; margin-right: 30px;}
+aside{
+    background-color: black;
+    
+}
+.primary{
+    background-color: lightgrey;
+}
+header{
+    background-color: aqua;
+    padding: 10px;
+}
+.main{
+    margin-top: 30px;
+}
+.primary h4{
+    font: bold;
+}
